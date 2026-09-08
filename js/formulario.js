@@ -177,9 +177,9 @@ document.addEventListener("DOMContentLoaded", () => {
     // ==========================
     const cliente = {
 
-        email: "jimenezangela89@gmail.com",
-        localizador: "WRC48MRR",
-        fechaEntrada: "2026-10-20"
+        email: "olgaquintero20217@gmail.com",
+        localizador: "WRC73BB",
+        fechaEntrada: "2026-12-08"
 
     };
     
